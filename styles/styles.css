@@ -192,3 +192,101 @@ body{
     font-weight: 600;
     margin-top: 5px;
 }
+.donate-today{
+    text-align: center;
+    margin: 0 160px;
+    padding: 0 88px;
+}
+
+    
+
+.donate-amount .donate-btn {
+    width: 240px;
+    height: 128px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    background-color: #FFFFFF;
+    border: none;
+    border-radius: 16px;
+    margin: 0 12px;
+}
+.donate-btn:hover{
+    background-color:silver;
+}
+.donate-btn2{
+    background-color: #C6E4D6;
+    width: 240px;
+    height: 128px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);
+    border: none;
+    border-radius: 16px;
+    margin: 0 10px;
+}
+#otheramount{
+    width: 1000px;
+    height: 64px;
+    margin: 32px 19.5px;
+    border: none;
+    text-align: center;
+    font-size: 20px;
+    color: rgba(14, 14, 14, 0.3);
+
+}
+.btn-done{
+    width: 151px;
+    height: 56px;
+    color: #FFFFFF;
+    background-color: #006A50;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+}
+.newsletter{
+    text-align: center;
+    margin: 80px 160px;
+    padding: 80px 265px;
+    background-color: #C6E4D6;
+    border-radius: 24px;
+}
+.input-email{
+    width: 500px;
+    height: 55px;
+    color:rgba(14, 14, 14, 0.3) ;
+    font-size: 16px;
+    padding-left: 40px;
+    border: none;
+    border-radius: 8px 0 0 8px;
+    display: inline-block;
+    /* width: 80%; */
+    outline: none;
+    margin: 0;
+    
+}
+.btn-subscribe{
+    width: 151px;
+    height: 56px;
+    color: #FFFFFF;
+    background-color: #006A50;
+    border: none;
+    border-radius: 0 8px 8px 0;
+    font-size: 18px;
+    font-weight: 600;
+    display: inline-block;
+    /* width: 20%; */
+    margin: 0;
+    
+}
+button:hover{
+    background-color:silver;
+}
+.footer-container{
+    text-align: center;
+}
+.footer-icon img{
+    margin: 20px 5px;
+}
+
