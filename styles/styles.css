@@ -131,3 +131,29 @@ body{
     background-color:#FFC239 ;
     
 }
+.yunus-message{
+    margin: 32px 160px 80px 160px;
+}
+.message-container{
+    background-color: #FFFFFF;
+    padding: 48px 24px 24px 24px;
+    border-radius: 16px;
+    background-image: url(../assets/quote-bg.png)  ;
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    
+}
+.message-container h3{
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0;
+    color: rgba(14, 14, 14, 0.8);
+    
+}
+.message-container h6{
+    font-size: 16px;
+    font-weight: normal;
+    color: rgba(14, 14, 14, 0.6);
+    margin-top: 5px;
+    
+}
